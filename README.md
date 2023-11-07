@@ -1,2 +1,2 @@
 # top-papers
-top papers notes
+http://arthurchiao.art/articles-zh/
